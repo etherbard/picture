@@ -1,2 +1,1 @@
-# picture-bed
-Picture bed.
+# pictures
